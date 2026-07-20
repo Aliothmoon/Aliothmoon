@@ -39,10 +39,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aliothmoon&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliothmoon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+<img height="165" src="./profile/stats.svg" alt="stats" />
+<img height="165" src="./profile/top-langs.svg" alt="top langs" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aliothmoon&theme=tokyonight&hide_border=true" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=Aliothmoon&theme=tokyonight&hide_border=true" alt="streak" />
 
 </div>
 
