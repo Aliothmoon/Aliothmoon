@@ -9,7 +9,7 @@ on:
       - main
 
 concurrency:
-  group: profile-readme-push
+  group: ${{ github.workflow }}
   cancel-in-progress: false
 
 jobs:
