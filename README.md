@@ -12,7 +12,6 @@
 ## 🙋 About Me
 
 - 💻 Server-side developer & full-stack engineer — building backend services with **Java / Go**, plus **Vue / TypeScript** on the front end
-- 🌟 Author of [**MAA-Meow**](https://github.com/Aliothmoon/MAA-Meow) — 《明日方舟》Android 小助手，全日常一键长草 ⭐1.1k+
 - 🛠️ I enjoy building automation tools, proxies, and infrastructure
 - 🌱 Currently exploring distributed systems, performance tuning & system design
 
@@ -42,18 +41,12 @@
 <img height="165" src="./profile/stats.svg" alt="stats" />
 <img height="165" src="./profile/top-langs.svg" alt="top langs" />
 
-<img src="https://streak-stats.demolab.com/?user=Aliothmoon&theme=tokyonight&hide_border=true" alt="streak" />
-
 </div>
 
 ## 🐍 Contribution Graph
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aliothmoon/Aliothmoon/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aliothmoon/Aliothmoon/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Aliothmoon/Aliothmoon/output/github-contribution-grid-snake.svg" />
-</picture>
+<img alt="snake animation" src="https://raw.githubusercontent.com/Aliothmoon/Aliothmoon/output/github-contribution-grid-snake.svg" />
 
 </div>
