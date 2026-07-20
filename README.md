@@ -46,19 +46,6 @@
 
 </div>
 
-## 🚀 Featured Project
-
-<div align="center">
-
-<a href="https://github.com/Aliothmoon/MAA-Meow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aliothmoon&repo=MAA-Meow&theme=tokyonight&hide_border=true" alt="MAA-Meow" />
-</a>
-<a href="https://github.com/Aliothmoon/qtrp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aliothmoon&repo=qtrp&theme=tokyonight&hide_border=true" alt="qtrp" />
-</a>
-
-</div>
-
 ## 🐍 Contribution Graph
 
 <div align="center">
