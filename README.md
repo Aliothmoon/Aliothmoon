@@ -45,10 +45,10 @@
 
 </div>
 
-## 🐍 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img alt="snake animation" src="https://raw.githubusercontent.com/Aliothmoon/Aliothmoon/output/github-contribution-grid-snake.svg" />
+<img alt="3D contribution graph" src="./profile-3d-contrib/profile-night-view.svg" />
 
 </div>
