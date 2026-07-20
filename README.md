@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+Aliothmoon+%F0%9F%91%8B;Server-Side+%2F+Backend+Developer;Building+tools+that+people+actually+use" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+Aliothmoon+%F0%9F%91%8B;Server-Side+Developer;Full-Stack+Engineer;Building+tools+that+people+actually+use" alt="Typing SVG" />
 
 <p>
   <a href="https://github.com/Aliothmoon?tab=followers"><img src="https://img.shields.io/github/followers/Aliothmoon?style=flat-square&logo=github&label=Followers&color=58A6FF" alt="followers" /></a>
@@ -11,7 +11,7 @@
 
 ## 🙋 About Me
 
-- 💻 Server-side developer — building backend services with **Java / Go**
+- 💻 Server-side developer & full-stack engineer — building backend services with **Java / Go**, plus **Vue / TypeScript** on the front end
 - 🌟 Author of [**MAA-Meow**](https://github.com/Aliothmoon/MAA-Meow) — 《明日方舟》Android 小助手，全日常一键长草 ⭐1.1k+
 - 🛠️ I enjoy building automation tools, proxies, and infrastructure
 - 🌱 Currently exploring distributed systems, performance tuning & system design
