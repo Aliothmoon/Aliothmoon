@@ -41,6 +41,8 @@
 <img height="165" src="./profile/stats.svg" alt="stats" />
 <img height="165" src="./profile/top-langs.svg" alt="top langs" />
 
+<img src="./profile/streak.svg" alt="GitHub Streak" />
+
 </div>
 
 ## 🐍 Contribution Graph
