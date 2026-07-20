@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+Aliothmoon+%F0%9F%91%8B;Server-Side+Developer;Full-Stack+Engineer;Building+tools+that+people+actually+use" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&height=45&lines=Hi+there%2C+I'm+Aliothmoon+%F0%9F%91%8B;Server-Side+Developer;Full-Stack+Engineer;Building+tools+that+people+actually+use" alt="Typing SVG" />
 
 <p>
   <a href="https://github.com/Aliothmoon?tab=followers"><img src="https://img.shields.io/github/followers/Aliothmoon?style=flat-square&logo=github&label=Followers&color=58A6FF" alt="followers" /></a>
