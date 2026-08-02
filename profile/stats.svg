@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Aliothmoon&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Commits  : 2612, Total PRs: 172, Total Issues: 12, Contributed to (last year): 24</desc>
+        <desc id="descId">Total Commits  : 2173, Total PRs: 172, Total Issues: 12, Contributed to (last year): 24</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 37.232910529510555;
+        stroke-dashoffset: 39.462027453034025;
       }
     }
   
@@ -162,7 +162,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >2.6k</text>
+      >2.2k</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
